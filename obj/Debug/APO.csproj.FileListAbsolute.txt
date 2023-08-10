@@ -1,0 +1,62 @@
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\bin\Debug\APO.exe.config
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\bin\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\bin\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.csprojAssemblyReference.cache
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.csproj.GenerateResource.cache
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.Dolfi.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.ImageForm.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.HistogramForm.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.LutForm.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.PlotProfileForm.resources
+C:\Users\A_Lap_S\Desktop\APO\APO\APO\obj\Debug\APO.plotChartForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\bin\Debug\APO.exe.config
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\bin\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\bin\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.csprojAssemblyReference.cache
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.Dolfi.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.HistogramForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.ImageForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.LutForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.plotChartForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.PlotProfileForm.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.csproj.GenerateResource.cache
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO — копия\APO\APO\obj\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\APO.exe.config
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.csprojAssemblyReference.cache
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.Dolfi.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.HistogramForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.ImageForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.LutForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.plotChartForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.PlotProfileForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.Properties.Resources.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.csproj.GenerateResource.cache
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.csproj.CoreCompileInputs.cache
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.exe
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.pdb
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.TreshholdLevelForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\concrt140.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\cvextern.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\msvcp140.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\msvcp140_1.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\msvcp140_2.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\msvcp140_codecvt_ids.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\vcruntime140.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\vcruntime140_1.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.csproj.CopyComplete
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\opencv_videoio_ffmpeg420_64.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\Emgu.CV.World.Netstandard.dll
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\bin\Debug\Emgu.CV.World.Netstandard.xml
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.LogicOperationForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.MaskValuesForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.MorfologicalForm.resources
+C:\Users\A_Lap_S\Desktop\APO Oryginal\APO\APO\obj\Debug\APO.TwoStageMaskForm.resources
